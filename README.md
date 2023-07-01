@@ -42,7 +42,7 @@ Basic Programs of Java
     Write a Java program to print a right triangle pattern using asterisks (*). The number of rows in the triangle should be taken as input from the user. Each row should have a number of asterisks equal to the row number.
 
 12.Pattern: Pyramid
-		*
+	    *
 	   ***
 	  *****
 	 *******
@@ -51,7 +51,7 @@ Basic Programs of Java
    Write a Java program to print a pyramid pattern using asterisks (*). The number of rows in the pyramid should be taken as input from the user. Each row should have a number of asterisks equal to twice the row number minus one. The pyramid should be centered.
 
 13.Pattern: Diamond
-		*
+	    *
 	   ***
 	  *****
 	 *******
@@ -59,7 +59,7 @@ Basic Programs of Java
 	 *******
 	  *****
 	   ***
-		*
+	    *
 
    Write a Java program to print a diamond pattern using asterisks (*). The number of rows in the diamond should be taken as input from the user. The top half of the diamond should follow the pyramid pattern, and the bottom half should be the reverse of the top half.
 
